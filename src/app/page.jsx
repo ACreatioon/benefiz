@@ -77,7 +77,7 @@ export default function Home() {
       overflowY: 'auto',
       minHeight: '100vh'
     }}>
-      <div className="min-h-screen relative">
+      <div className="min-h-svh relative">
         <div className="fixed left-1/2 md:w-[50rem] w-[90%] max-w-[20rem] md:max-w-none z-30 top-2 py-2 -translate-x-1/2 text-black bg-white/60 flex items-center justify-between px-4 md:px-8 rounded-xl shadow-xl backdrop-blur-lg">
           <div>
             <h1 className="font-bold text-lg md:text-xl">Benevi<span className="font-light">z</span></h1>
