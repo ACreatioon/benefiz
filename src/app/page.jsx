@@ -75,7 +75,7 @@ export default function Home() {
       WebkitOverflowScrolling: 'touch',
       overflowX: 'hidden',
       overflowY: 'auto',
-      minHeight: '100vh'
+      minHeight: '100svh'
     }}>
       <div className="min-h-svh relative">
         <div className="fixed left-1/2 md:w-[50rem] w-[90%] max-w-[20rem] md:max-w-none z-30 top-2 py-2 -translate-x-1/2 text-black bg-white/60 flex items-center justify-between px-4 md:px-8 rounded-xl shadow-xl backdrop-blur-lg">
